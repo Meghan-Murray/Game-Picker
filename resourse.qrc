@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/picture">
+        <file>img/png-transparent-computer-icons-organization-company-table-list-angle-company-text.png</file>
+        <file>img/crown.png</file>
+        <file>img/plus.png</file>
+        <file>img/loop.png</file>
+        <file>img/can.png</file>
+        <file>img/cross.png</file>
+        <file>img/eyeClose.png</file>
+        <file>img/eyeOpen.png</file>
+        <file>img/check.png</file>
+        <file>img/refresh.png</file>
+        <file>img/noneImg.png</file>
+    </qresource>
+</RCC>
